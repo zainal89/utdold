@@ -1,0 +1,202 @@
+[27-Sep-2021 22:27:48 Asia/Makassar] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/takt3736/public_html/osp/p_user/media.php:15) in /home/takt3736/public_html/osp/p_user/logout.php on line 8
+[10-Oct-2021 17:58:45 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[10-Oct-2021 18:01:20 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[10-Oct-2021 18:02:16 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[10-Oct-2021 18:24:51 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[10-Oct-2021 18:27:53 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[18-Jan-2022 08:01:53 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[18-Jan-2022 08:02:39 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[18-Jan-2022 08:04:42 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[23-Jan-2022 07:14:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zainal/public_html/config/func_koneksi.php on line 12
+[23-Jan-2022 07:14:26 UTC] PHP Fatal error:  Koneksi Gagal !!!: Access denied for user 'root'@'localhost' (using password: NO) in /home/zainal/public_html/config/func_koneksi.php on line 14
+[23-Jan-2022 07:19:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zainal_absen'@'localhost' (using password: YES) in /home/zainal/public_html/config/func_koneksi.php on line 12
+[23-Jan-2022 07:19:48 UTC] PHP Fatal error:  Koneksi Gagal !!!: Access denied for user 'zainal_absen'@'localhost' (using password: YES) in /home/zainal/public_html/config/func_koneksi.php on line 14
+[04-Apr-2023 11:53:45 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/user/modul/absen.php:21
+Stack trace:
+#0 /home/zainal/public_html/user/content.php(8): include()
+#1 /home/zainal/public_html/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/user/modul/absen.php on line 21
+[04-Apr-2023 12:17:46 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/user/modul/absen.php:21
+Stack trace:
+#0 /home/zainal/public_html/user/content.php(8): include()
+#1 /home/zainal/public_html/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/user/modul/absen.php on line 21
+[28-May-2023 13:32:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/zainal/public_html/config/func_koneksi.php on line 12
+[28-May-2023 13:32:24 UTC] PHP Fatal error:  Koneksi Gagal !!!: Connection refused in /home/zainal/public_html/config/func_koneksi.php on line 14
+[28-May-2023 13:53:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/zainal/public_html/config/func_koneksi.php on line 12
+[28-May-2023 13:53:03 UTC] PHP Fatal error:  Koneksi Gagal !!!: Connection refused in /home/zainal/public_html/config/func_koneksi.php on line 14
+[29-May-2023 00:43:37 UTC] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=21974 in /home/zainal/public_html/config/func_koneksi.php on line 12
+[29-May-2023 00:43:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /home/zainal/public_html/config/func_koneksi.php on line 12
+[29-May-2023 00:43:37 UTC] PHP Fatal error:  Koneksi Gagal !!!: MySQL server has gone away in /home/zainal/public_html/config/func_koneksi.php on line 14
+[07-Jun-2023 23:49:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[10-Jun-2023 17:26:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[13-Jun-2023 13:26:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[13-Jun-2023 13:26:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[13-Jun-2023 17:29:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[13-Jun-2023 18:34:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[13-Jun-2023 21:44:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[14-Jun-2023 23:35:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[17-Jun-2023 08:34:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[18-Jun-2023 04:54:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[18-Jun-2023 16:55:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[19-Jun-2023 20:54:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[20-Jun-2023 04:07:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[20-Jun-2023 11:06:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[21-Jun-2023 20:25:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[24-Jun-2023 07:23:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[24-Jun-2023 19:26:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[25-Jun-2023 15:00:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[26-Jun-2023 11:38:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[26-Jun-2023 15:41:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[26-Jun-2023 19:35:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[26-Jun-2023 21:20:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[26-Jun-2023 22:00:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[27-Jun-2023 15:04:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[27-Jun-2023 19:53:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[29-Jun-2023 11:02:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[30-Jun-2023 10:47:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[30-Jun-2023 10:47:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[30-Jun-2023 10:47:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[30-Jun-2023 10:47:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[30-Jun-2023 16:55:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[01-Jul-2023 04:41:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[01-Jul-2023 09:50:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[01-Jul-2023 18:09:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[02-Jul-2023 19:00:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[03-Jul-2023 11:26:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:36:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:36:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:36:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:37:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:38:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:39:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:39:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:39:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:39:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 01:40:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 02:03:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 02:04:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 02:05:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 02:12:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 02:12:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 02:12:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 02:22:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:12:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:12:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:12:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:13:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:15:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:16:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:17:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:21:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:22:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:23:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:24:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 03:24:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 11:21:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 11:21:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 11:23:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 11:23:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 11:23:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 11:23:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 11:23:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70
+[04-Jul-2023 11:23:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zainal/public_html/user/index.php on line 70

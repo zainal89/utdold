@@ -1,0 +1,10 @@
+[04-May-2023 09:28:34 Asia/Makassar] PHP Warning:  Trying to access array offset on value of type null in /home/zainal/public_html/mimin/cetak/qrcode.php on line 20
+[04-May-2023 09:28:34 Asia/Makassar] PHP Warning:  Trying to access array offset on value of type null in /home/zainal/public_html/mimin/cetak/qrcode.php on line 22
+[04-May-2023 09:28:34 Asia/Makassar] PHP Warning:  Trying to access array offset on value of type null in /home/zainal/public_html/mimin/cetak/qrcode.php on line 23
+[04-May-2023 09:28:34 Asia/Makassar] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/zainal/public_html/mimin/cetak/qrcode.php:20) in /home/zainal/public_html/plugins/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/zainal/public_html/plugins/fpdf/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home/zainal/public_html/plugins/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/zainal/public_html/mimin/cetak/qrcode.php(36): FPDF->Output('D', '.pdf')
+#3 {main}
+  thrown in /home/zainal/public_html/plugins/fpdf/fpdf.php on line 271

@@ -1,0 +1,51 @@
+[01-Feb-2022 09:27:08 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/mimin/modul/absen.php:64
+Stack trace:
+#0 /home/zainal/public_html/mimin/content.php(9): include()
+#1 /home/zainal/public_html/mimin/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/mimin/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/mimin/modul/absen.php on line 64
+[13-Sep-2022 13:48:23 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/mimin/modul/dboard.php:52
+Stack trace:
+#0 /home/zainal/public_html/td40/mimin/content.php(6): include()
+#1 /home/zainal/public_html/td40/mimin/media.php(95): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/mimin/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/mimin/modul/dboard.php on line 52
+[13-Sep-2022 14:21:51 Asia/Makassar] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/zainal/public_html/td40/mimin/modul/dboard.php on line 48
+[13-Sep-2022 14:25:02 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?>' in /home/zainal/public_html/td40/mimin/modul/dboard.php on line 23
+[13-Sep-2022 14:25:49 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?>' in /home/zainal/public_html/td40/mimin/modul/dboard.php on line 21
+[13-Sep-2022 14:29:16 Asia/Makassar] PHP Parse error:  syntax error, unexpected '?>' in /home/zainal/public_html/td40/mimin/modul/dboard.php on line 20
+[13-Sep-2022 14:34:47 Asia/Makassar] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/zainal/public_html/td40/mimin/modul/dboard.php:15
+Stack trace:
+#0 /home/zainal/public_html/td40/mimin/content.php(6): include()
+#1 /home/zainal/public_html/td40/mimin/media.php(95): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/mimin/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/mimin/modul/dboard.php on line 15
+[13-Sep-2022 14:51:38 Asia/Makassar] PHP Parse error:  syntax error, unexpected '<' in /home/zainal/public_html/td40/mimin/modul/dboard.php on line 18
+[13-Sep-2022 15:45:40 Asia/Makassar] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function coc_value(), 1 passed in /home/zainal/public_html/td40/mimin/modul/dboard.php on line 62 and exactly 3 expected in /home/zainal/public_html/td40/config/func_sql.php:46
+Stack trace:
+#0 /home/zainal/public_html/td40/mimin/modul/dboard.php(62): coc_value('se')
+#1 /home/zainal/public_html/td40/mimin/content.php(7): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/mimin/media.php(95): include('/home/zainal/pu...')
+#3 /home/zainal/public_html/td40/mimin/index.php(11): include('/home/zainal/pu...')
+#4 {main}
+  thrown in /home/zainal/public_html/td40/config/func_sql.php on line 46
+[13-Sep-2022 15:45:46 Asia/Makassar] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function coc_value(), 1 passed in /home/zainal/public_html/td40/mimin/modul/dboard.php on line 62 and exactly 3 expected in /home/zainal/public_html/td40/config/func_sql.php:46
+Stack trace:
+#0 /home/zainal/public_html/td40/mimin/modul/dboard.php(62): coc_value('se')
+#1 /home/zainal/public_html/td40/mimin/content.php(7): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/mimin/media.php(95): include('/home/zainal/pu...')
+#3 /home/zainal/public_html/td40/mimin/index.php(11): include('/home/zainal/pu...')
+#4 {main}
+  thrown in /home/zainal/public_html/td40/config/func_sql.php on line 46
+[13-Sep-2022 15:48:33 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/config/func_sql.php:47
+Stack trace:
+#0 /home/zainal/public_html/td40/mimin/modul/dboard.php(62): coc_value('tb_mhs', 'nama', 'nim=21OSP609')
+#1 /home/zainal/public_html/td40/mimin/content.php(7): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/mimin/media.php(95): include('/home/zainal/pu...')
+#3 /home/zainal/public_html/td40/mimin/index.php(11): include('/home/zainal/pu...')
+#4 {main}
+  thrown in /home/zainal/public_html/td40/config/func_sql.php on line 47
+[13-Sep-2022 16:07:52 Asia/Makassar] PHP Parse error:  syntax error, unexpected '/' in /home/zainal/public_html/td40/mimin/modul/history.php on line 55

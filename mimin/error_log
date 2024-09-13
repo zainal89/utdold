@@ -1,0 +1,33 @@
+[01-Feb-2022 09:27:08 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/mimin/modul/absen.php:64
+Stack trace:
+#0 /home/zainal/public_html/mimin/content.php(9): include()
+#1 /home/zainal/public_html/mimin/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/mimin/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/mimin/modul/absen.php on line 64
+[08-Oct-2023 11:36:08 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/mimin/modul/absen.php:65
+Stack trace:
+#0 /home/zainal/public_html/mimin/content.php(9): include()
+#1 /home/zainal/public_html/mimin/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/mimin/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/mimin/modul/absen.php on line 65
+[19-Aug-2024 11:20:45 Asia/Makassar] PHP Warning:  include(../../config/func_koneksi.php): failed to open stream: No such file or directory in /home/zainal/public_html/mimin/modul/dobot.php on line 2
+[19-Aug-2024 11:20:45 Asia/Makassar] PHP Warning:  include(): Failed opening '../../config/func_koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zainal/public_html/mimin/modul/dobot.php on line 2
+[19-Aug-2024 11:20:45 Asia/Makassar] PHP Warning:  include(../../config/func_sql.php): failed to open stream: No such file or directory in /home/zainal/public_html/mimin/modul/dobot.php on line 3
+[19-Aug-2024 11:20:45 Asia/Makassar] PHP Warning:  include(): Failed opening '../../config/func_sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zainal/public_html/mimin/modul/dobot.php on line 3
+[19-Aug-2024 11:20:45 Asia/Makassar] PHP Warning:  include(../../config/func_konfigurasi.php): failed to open stream: No such file or directory in /home/zainal/public_html/mimin/modul/dobot.php on line 4
+[19-Aug-2024 11:20:45 Asia/Makassar] PHP Warning:  include(): Failed opening '../../config/func_konfigurasi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zainal/public_html/mimin/modul/dobot.php on line 4
+[19-Aug-2024 11:22:16 Asia/Makassar] PHP Warning:  include(../../config/func_sql.php): failed to open stream: No such file or directory in /home/zainal/public_html/mimin/modul/dobot.php on line 3
+[19-Aug-2024 11:22:16 Asia/Makassar] PHP Warning:  include(): Failed opening '../../config/func_sql.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zainal/public_html/mimin/modul/dobot.php on line 3
+[19-Aug-2024 11:22:16 Asia/Makassar] PHP Warning:  include(../../config/func_konfigurasi.php): failed to open stream: No such file or directory in /home/zainal/public_html/mimin/modul/dobot.php on line 4
+[19-Aug-2024 11:22:16 Asia/Makassar] PHP Warning:  include(): Failed opening '../../config/func_konfigurasi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zainal/public_html/mimin/modul/dobot.php on line 4
+[19-Aug-2024 11:22:33 Asia/Makassar] PHP Fatal error:  Cannot redeclare anti_inject() (previously declared in /home/zainal/public_html/config/func_sql.php:3) in /home/zainal/public_html/config/func_sql.php on line 3
+[19-Aug-2024 11:23:37 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/zainal/public_html/mimin/modul/dobot.php:13
+Stack trace:
+#0 /home/zainal/public_html/mimin/content.php(11): include()
+#1 /home/zainal/public_html/mimin/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/mimin/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/mimin/modul/dobot.php on line 13
+[19-Aug-2024 11:31:34 Asia/Makassar] PHP Fatal error:  Cannot redeclare anti_inject() (previously declared in /home/zainal/public_html/config/func_sql.php:3) in /home/zainal/public_html/config/func_sql.php on line 3

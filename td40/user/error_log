@@ -1,0 +1,240 @@
+[27-Sep-2021 22:27:48 Asia/Makassar] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/takt3736/public_html/osp/p_user/media.php:15) in /home/takt3736/public_html/osp/p_user/logout.php on line 8
+[10-Oct-2021 17:58:45 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[10-Oct-2021 18:01:20 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[10-Oct-2021 18:02:16 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[10-Oct-2021 18:24:51 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[10-Oct-2021 18:27:53 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[18-Jan-2022 08:01:53 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[18-Jan-2022 08:02:39 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[18-Jan-2022 08:04:42 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/takt3736/public_html/osp/p_user/modul/absen.php:21
+Stack trace:
+#0 /home/takt3736/public_html/osp/p_user/content.php(8): include()
+#1 /home/takt3736/public_html/osp/p_user/media.php(89): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/p_user/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/p_user/modul/absen.php on line 21
+[23-Jan-2022 07:14:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zainal/public_html/config/func_koneksi.php on line 12
+[23-Jan-2022 07:14:26 UTC] PHP Fatal error:  Koneksi Gagal !!!: Access denied for user 'root'@'localhost' (using password: NO) in /home/zainal/public_html/config/func_koneksi.php on line 14
+[23-Jan-2022 07:19:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'zainal_absen'@'localhost' (using password: YES) in /home/zainal/public_html/config/func_koneksi.php on line 12
+[23-Jan-2022 07:19:48 UTC] PHP Fatal error:  Koneksi Gagal !!!: Access denied for user 'zainal_absen'@'localhost' (using password: YES) in /home/zainal/public_html/config/func_koneksi.php on line 14
+[08-Sep-2022 23:51:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zainal/public_html/td40/config/func_koneksi.php on line 12
+[08-Sep-2022 23:51:40 UTC] PHP Fatal error:  Koneksi Gagal !!!: Access denied for user 'root'@'localhost' (using password: NO) in /home/zainal/public_html/td40/config/func_koneksi.php on line 14
+[08-Sep-2022 23:53:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'takt3736_osp'@'localhost' (using password: YES) in /home/zainal/public_html/td40/config/func_koneksi.php on line 12
+[08-Sep-2022 23:53:17 UTC] PHP Fatal error:  Koneksi Gagal !!!: Access denied for user 'takt3736_osp'@'localhost' (using password: YES) in /home/zainal/public_html/td40/config/func_koneksi.php on line 14
+[08-Sep-2022 23:53:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'takt3736_osp'@'localhost' (using password: YES) in /home/zainal/public_html/td40/config/func_koneksi.php on line 12
+[08-Sep-2022 23:53:18 UTC] PHP Fatal error:  Koneksi Gagal !!!: Access denied for user 'takt3736_osp'@'localhost' (using password: YES) in /home/zainal/public_html/td40/config/func_koneksi.php on line 14
+[08-Sep-2022 23:53:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'takt3736_osp'@'localhost' (using password: YES) in /home/zainal/public_html/td40/config/func_koneksi.php on line 12
+[08-Sep-2022 23:53:26 UTC] PHP Fatal error:  Koneksi Gagal !!!: Access denied for user 'takt3736_osp'@'localhost' (using password: YES) in /home/zainal/public_html/td40/config/func_koneksi.php on line 14
+[09-Sep-2022 08:03:30 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/rekap.php:64
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(9): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/rekap.php on line 64
+[09-Sep-2022 08:05:45 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/rekap.php:64
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(9): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/rekap.php on line 64
+[09-Sep-2022 08:07:58 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/rekap.php:64
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(9): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/rekap.php on line 64
+[09-Sep-2022 08:10:36 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/rekap.php:64
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(9): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/rekap.php on line 64
+[09-Sep-2022 08:10:49 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/rekap.php:64
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(9): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/rekap.php on line 64
+[09-Sep-2022 08:11:24 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/rekap.php:64
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(9): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/rekap.php on line 64
+[09-Sep-2022 08:11:51 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/rekap.php:64
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(9): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/rekap.php on line 64
+[09-Sep-2022 08:13:02 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/rekap.php:64
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(9): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/rekap.php on line 64
+[09-Sep-2022 08:13:33 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/rekap.php:64
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(9): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/rekap.php on line 64
+[09-Sep-2022 08:14:48 Asia/Makassar] PHP Parse error:  syntax error, unexpected '$absen' (T_VARIABLE) in /home/zainal/public_html/td40/user/modul/rekap.php on line 65
+[09-Sep-2022 08:15:40 Asia/Makassar] PHP Parse error:  syntax error, unexpected '$rr' (T_VARIABLE) in /home/zainal/public_html/td40/user/modul/rekap.php on line 65
+[09-Sep-2022 08:17:20 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/rekap.php:66
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(9): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/rekap.php on line 66
+[12-Sep-2022 21:10:25 Asia/Makassar] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zainal/public_html/td40/user/modul/rekap.php on line 74
+[12-Sep-2022 21:10:58 Asia/Makassar] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zainal/public_html/td40/user/modul/rekap.php on line 76
+[12-Sep-2022 21:12:01 Asia/Makassar] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zainal/public_html/td40/user/modul/rekap.php on line 76
+[12-Sep-2022 21:13:25 Asia/Makassar] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zainal/public_html/td40/user/modul/rekap.php on line 76
+[13-Sep-2022 08:21:52 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:81
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 81
+[13-Sep-2022 08:23:54 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:81
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 81
+[13-Sep-2022 08:31:24 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:82
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 82
+[13-Sep-2022 08:33:01 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:86
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 86
+[13-Sep-2022 08:33:44 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:87
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 87
+[13-Sep-2022 08:45:36 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:87
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 87
+[13-Sep-2022 08:46:22 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:87
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 87
+[13-Sep-2022 08:46:33 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:87
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 87
+[13-Sep-2022 08:53:34 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:87
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 87
+[13-Sep-2022 08:58:24 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:88
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 88
+[13-Sep-2022 10:39:46 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/dboard.php:88
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(7): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/dboard.php on line 88
+[13-Sep-2022 12:11:28 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/scanner.php:98
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(11): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/scanner.php on line 98
+[13-Sep-2022 12:15:53 Asia/Makassar] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/zainal/public_html/td40/user/modul/scanner.php on line 100
+[13-Sep-2022 12:15:53 Asia/Makassar] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/zainal/public_html/td40/user/modul/scanner.php on line 100
+[13-Sep-2022 12:15:53 Asia/Makassar] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/zainal/public_html/td40/user/modul/scanner.php on line 100
+[13-Sep-2022 12:15:53 Asia/Makassar] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home/zainal/public_html/td40/user/modul/scanner.php on line 100
+[13-Sep-2022 12:17:12 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/zainal/public_html/td40/user/modul/scanner.php:98
+Stack trace:
+#0 /home/zainal/public_html/td40/user/content.php(11): include()
+#1 /home/zainal/public_html/td40/user/media.php(89): include('/home/zainal/pu...')
+#2 /home/zainal/public_html/td40/user/index.php(11): include('/home/zainal/pu...')
+#3 {main}
+  thrown in /home/zainal/public_html/td40/user/modul/scanner.php on line 98

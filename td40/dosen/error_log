@@ -1,0 +1,9 @@
+[30-Sep-2021 23:01:20 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined function dec() in /home/takt3736/public_html/osp/dosen/modul/nilai.php:129
+Stack trace:
+#0 /home/takt3736/public_html/osp/dosen/content.php(10): include()
+#1 /home/takt3736/public_html/osp/dosen/media.php(90): include('/home/takt3736/...')
+#2 /home/takt3736/public_html/osp/dosen/index.php(11): include('/home/takt3736/...')
+#3 {main}
+  thrown in /home/takt3736/public_html/osp/dosen/modul/nilai.php on line 129
+[04-Jan-2022 09:05:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''friday'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/takt3736/public_html/osp/config/func_sql.php on line 87
+[04-Jan-2022 09:05:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''friday'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/takt3736/public_html/osp/config/func_sql.php on line 87
