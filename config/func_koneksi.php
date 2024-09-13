@@ -1,9 +1,13 @@
 <?php
 
 define("db_host", "localhost"); 
-define("db_user", "zainal_abs"); 
-define("db_pwd", "Ospabsen22");
-define("db_dbase", "zainal_absen");
+// define("db_user", "zainal_abs"); 
+// define("db_pwd", "Ospabsen22");
+// define("db_dbase", "zainal_absen");
+
+define("db_user", "root"); 
+define("db_pwd", "");
+define("db_dbase", "db_utdold");
 
 // define("db_user", "takt3736_osp"); 
 // define("db_pwd", "Absen???21");
